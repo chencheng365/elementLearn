@@ -1,6 +1,8 @@
 # sell
 
-> A Vue.js project
+> 一个基于vue的仿饿了么webapp项目,相关技术有express、webpack、vue、vue-resource、vue-router
+
+
 
 ## Build Setup
 
@@ -18,4 +20,3 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
